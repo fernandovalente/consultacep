@@ -1,0 +1,28 @@
+{
+  "name": "consultacep",
+  "version": "1.0.0",
+  "description": "Centralizador de consultas de CEP no Brasil",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fernandovalente/consultacep.git"
+  },
+  "keywords": [
+    "API",
+    "CEP",
+    "CEP",
+    "Brasil",
+    "Consulta",
+    "de",
+    "CEP"
+  ],
+  "author": "Fernando Valente",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fernandovalente/consultacep/issues"
+  },
+  "homepage": "https://github.com/fernandovalente/consultacep#readme"
+}
